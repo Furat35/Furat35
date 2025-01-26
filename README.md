@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fırat</h1>
-<h3 align="justify">I work in the Backend and .Net field and continue to improve myself. In my projects, i generally develop my applications by focusing on the backend. I am knowledgeable in Frontend. I have been developing applications in the .Net field for about 2 years and continue to improve myself in the backend field.</h3>
+<h3 align="justify">I work in the Backend and .Net field and continue to improve myself. In my projects, i generally develop my applications by focusing on the backend. I am knowledgeable in Frontend too. I continue to improve myself in both fields.</h3>
 <br>
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Furat35" target="_blank" rel="noreferrer">Github</a><br>
 - 📝 Visit <a href="https://firatortac.com.tr/" target="_blank" rel="noreferrer">My Website</a><br>
